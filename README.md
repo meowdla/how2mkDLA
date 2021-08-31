@@ -16,6 +16,6 @@ IEEE2019-Emerging MPEG Standards for Point Cloud Compression
 
 ------
 
-Quartree compress:
+Quadtree compress:
 
 Adaptive frame buffer compression [patents.google](https://patents.google.com/patent/US9349156B2)
